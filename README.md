@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mayurbadole.netlify.app/](https://mayurbadole.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** , **JavaScript**
 
 - 📫 How to reach me **mayurbadole01@gmail.com**
 
